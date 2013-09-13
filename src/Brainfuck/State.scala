@@ -1,9 +1,5 @@
 package Brainfuck
 
-/**
- * User: Iñigo Sola Núñez
- * Date: 09/09/12
- */
 class State(val input: String) {
 
   var output: String = ""
